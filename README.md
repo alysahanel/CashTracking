@@ -25,3 +25,5 @@ System Overview
   - Charts: Visual insights
   - Theming: Light/Dark mode
   - Responsive UI: Works on all devices
+
+for more details can be downloaded from this drive " https://drive.google.com/drive/folders/1hvwN7scNsfdVI2JAtAQQaX95WRZrKJ3u?usp=sharing "
